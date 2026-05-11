@@ -108,7 +108,7 @@ To test whether a compact gene signature could retain predictive performance, th
 These results show that RNA-seq retained stronger performance when the feature set was reduced to 10 features, especially for balanced accuracy, recall, F1-score, MCC, and ROC-AUC. This supports the interpretation that RNA-seq may provide richer biomarker-level signal, while microarray remains competitive and clinically pragmatic.
 
 
-## Portfolio relevance
+## Project relevance
 
 This project demonstrates:
 
@@ -126,6 +126,8 @@ This project demonstrates:
 - **Asta Perl** — Random Forests
 - **Bharat Pugaliya** — Linear SVC & Elastic Net 
 - **Aman Kumar** — Log Regression & NSC
+
+Each member contributed to different aspects of the analysis, including preprocessing, feature selection, machine learning, statistical evaluation, visualization, and biological interpretation.
 
 ## Report
 
